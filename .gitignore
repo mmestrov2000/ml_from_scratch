@@ -1,0 +1,28 @@
+# Ignore PyCharm settings
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Python virtualenvs created by Conda
+*.conda
+*.env
+
+# Log files
+*.log
